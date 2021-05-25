@@ -1,2 +1,2 @@
 # sachinpavale.github.io
-This is my personal portfolio website repo
+This is my personal portfolio website
