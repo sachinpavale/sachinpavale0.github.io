@@ -1,2 +1,2 @@
-# sachinpavale.github.io
-This is my personal portfolio website
+# personal-portfolio-website
+This is my first project; using- javascript,css, and html
