@@ -57,13 +57,13 @@ body{min-height: 110vh;}
 
 .skills .content .col_right .bar .line:before{content: '';position: absolute;height: 100%;top: 0;left: 0;border-radius: 2px;}
 
-.skills .content .col_right .bar .react:before{width: 80%;background: #f4cf3a;}
-.skills .content .col_right .bar .javascript:before{width: 85%;background: #f4cf3a;}
-.skills .content .col_right .bar .bootstrap:before{width: 80%;background: #f4cf3a;}
-.skills .content .col_right .bar .css:before{width: 85%;background: #f4cf3a;}
-.skills .content .col_right .bar .html:before{width: 90%;background: #f4cf3a;}
-.skills .content .col_right .bar .photoshop:before{width: 85%;background: #f4cf3a;}
-.skills .content .col_right .bar .illustrator:before{width: 80%;background: #f4cf3a;}
+.skills .content .col_right .bar .react:before{width: 25%;background: #f4cf3a;}
+.skills .content .col_right .bar .javascript:before{width: 50%;background: #f4cf3a;}
+.skills .content .col_right .bar .bootstrap:before{width: 50%;background: #f4cf3a;}
+.skills .content .col_right .bar .css:before{width: 50%;background: #f4cf3a;}
+.skills .content .col_right .bar .html:before{width: 50%;background: #f4cf3a;}
+.skills .content .col_right .bar .photoshop:before{width: 75%;background: #f4cf3a;}
+.skills .content .col_right .bar .illustrator:before{width: 75%;background: #f4cf3a;}
 .skills .content .col_right .bar .premiere_pro:before{width: 75%;background: #f4cf3a;}
 
 
@@ -88,7 +88,7 @@ body{min-height: 110vh;}
 
 /* contact section css */
 .contact{background: #ebebeb;}
-.contact .content{display: flex;justify-content: center;flex-wrap: wrap;flex-direction: column;margin-top: 20px;align-items: ;}
+.contact .content{display: flex;justify-content: center;flex-wrap: wrap;flex-direction: column;margin-top: 20px;}
 .contact .content .row{display: flex;justify-content: center;flex-wrap: wrap;flex-direction: row;}
 .contact .content .row .card{background: #fff;width: 240px;margin: 20px;padding: 25px;display: flex;justify-content: center;align-items: center;flex-direction: column;box-shadow: 0 5px 25px rgba(1 1 1/ 15%);border-radius: 10px;}
 .contact .content .row .card .contact_icon{color: #0071e3;font-size: 4em;text-align: center;transition: .5s ease;}
