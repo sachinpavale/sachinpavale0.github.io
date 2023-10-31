@@ -1,5 +1,5 @@
 # personal-portfolio-website
-This is my first project; using- javascript,css, and html
+This is my first project; using- javascript, CSS, and HTML
 
 
 #testing git 
