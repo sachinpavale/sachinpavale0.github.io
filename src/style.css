@@ -58,7 +58,7 @@ body{min-height: 110vh;}
 .skills .content .col_right .bar .line:before{content: '';position: absolute;height: 100%;top: 0;left: 0;border-radius: 2px;}
 
 .skills .content .col_right .bar .react:before{width: 25%;background: #f4cf3a;}
-.skills .content .col_right .bar .javascript:before{width: 5%;background: #f4cf3a;}
+.skills .content .col_right .bar .javascript:before{width: 50%;background: #f4cf3a;}
 .skills .content .col_right .bar .bootstrap:before{width: 50%;background: #f4cf3a;}
 .skills .content .col_right .bar .css:before{width: 50%;background: #f4cf3a;}
 .skills .content .col_right .bar .html:before{width: 50%;background: #f4cf3a;}
